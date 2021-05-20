@@ -1023,7 +1023,8 @@
 - scalacenter/sbt-eviction-rules
 - scalacenter/sbt-scalafix
 - scalacenter/sbt-version-policy
-- scalacenter/scalafix
+- scalacenter/sbt-scalafix
+- scalacenter/scalafix.g8
 - scalacenter/scalajs-bundler
 - scalacenter/scala-3-migration-guide
 - scalacenter/scala-migrat3
